@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec4caea3.chunk.css",
+    "main.js": "/static/js/main.ff594bcb.chunk.js",
+    "main.js.map": "/static/js/main.ff594bcb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ea9cdd06.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ea9cdd06.js.map",
+    "static/js/2.e1d68649.chunk.js": "/static/js/2.e1d68649.chunk.js",
+    "static/js/2.e1d68649.chunk.js.map": "/static/js/2.e1d68649.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ec4caea3.chunk.css.map": "/static/css/main.ec4caea3.chunk.css.map",
+    "static/js/2.e1d68649.chunk.js.LICENSE.txt": "/static/js/2.e1d68649.chunk.js.LICENSE.txt",
+    "static/media/amount.5e9b3918.svg": "/static/media/amount.5e9b3918.svg",
+    "static/media/close_icon.ffc7301c.svg": "/static/media/close_icon.ffc7301c.svg",
+    "static/media/difficulty.0a23ad15.svg": "/static/media/difficulty.0a23ad15.svg",
+    "static/media/question_elipse_left.1f92e590.svg": "/static/media/question_elipse_left.1f92e590.svg",
+    "static/media/question_elipse_right.4cf181e3.svg": "/static/media/question_elipse_right.4cf181e3.svg",
+    "static/media/question_pink_spot.bd5320ea.svg": "/static/media/question_pink_spot.bd5320ea.svg",
+    "static/media/question_striped_spot.f282afe2.svg": "/static/media/question_striped_spot.f282afe2.svg",
+    "static/media/results_pink.03d46c03.svg": "/static/media/results_pink.03d46c03.svg",
+    "static/media/results_right.4713bf72.svg": "/static/media/results_right.4713bf72.svg",
+    "static/media/results_spot_left.0afdb6bb.svg": "/static/media/results_spot_left.0afdb6bb.svg",
+    "static/media/results_striped_spot.18115543.svg": "/static/media/results_striped_spot.18115543.svg",
+    "static/media/start_spot_left.de0a73c6.svg": "/static/media/start_spot_left.de0a73c6.svg",
+    "static/media/start_spot_right.406c3a32.svg": "/static/media/start_spot_right.406c3a32.svg",
+    "static/media/striped_circle_left.ee985bbc.svg": "/static/media/striped_circle_left.ee985bbc.svg",
+    "static/media/striped_pink_right.5b7658ca.svg": "/static/media/striped_pink_right.5b7658ca.svg",
+    "static/media/title.9e0d2591.svg": "/static/media/title.9e0d2591.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea9cdd06.js",
+    "static/js/2.e1d68649.chunk.js",
+    "static/css/main.ec4caea3.chunk.css",
+    "static/js/main.ff594bcb.chunk.js"
+  ]
+}
