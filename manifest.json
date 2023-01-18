@@ -1,6 +1,7 @@
 {
-  "short_name": "Quiz App",
-  "name": "Trivia App",
+  "short_name": "Cat Food",
+  "name": "Cat Food",
+ 
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
